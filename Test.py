@@ -1,0 +1,1 @@
+{"frame_w": 64, "frame_h": 64, "cols": 4, "count": 4, "fps": 8}
